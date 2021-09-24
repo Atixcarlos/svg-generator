@@ -1,0 +1,30 @@
+[   
+    {
+		"exposure": "N",
+		"wallLength": 100
+	}, {
+		"exposure": "N",
+		"wallLength": 50
+	}, {
+		"exposure": "E",
+		"wallLength": 130
+	}, {
+		"exposure": "NE",
+		"wallLength": 50
+	}, {
+		"exposure": "SE",
+		"wallLength": 50
+	}, {
+		"exposure": "SW",
+		"wallLength": 50
+	}, {
+		"exposure": "NW",
+		"wallLength": 50
+	},{
+		"exposure": "S",
+		"wallLength": 150
+	},{
+		"exposure": "W",
+		"wallLength": 130
+	}
+]

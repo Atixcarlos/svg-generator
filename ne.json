@@ -1,0 +1,15 @@
+[   
+    {
+		"exposure": "E",
+		"wallLength": 28
+	},{
+		"exposure": "S",
+		"wallLength": 20
+	}, {
+		"exposure": "W",
+		"wallLength": 10
+	}, {
+		"exposure": "S",
+		"wallLength": 20
+	}
+]
